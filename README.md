@@ -122,7 +122,7 @@ This portfolio showcases the following projects:
 
 \- LinkedIn: \[https://linkedin.com/in/nithesh-r-ba349032b]
 
-\- Email: nithesh.r.ciet@example.com
+\- Email: nithesh.r.ciet@gmail.com
 
 
 
