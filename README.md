@@ -84,7 +84,7 @@ A professional personal portfolio website showcasing skills, projects, and conta
 
 \## 🔗 Live Demo
 
-https://nithesh-cod.github.io/CodeAlpha\_Portfolio/
+https://nithesh-cod.github.io/CodeAlpha_Portfolio/
 
 
 
@@ -92,11 +92,11 @@ https://nithesh-cod.github.io/CodeAlpha\_Portfolio/
 
 This portfolio showcases the following projects:
 
-\- \[Image Gallery](https://nithesh-cod.github.io/CodeAlpha\_ImageGallery/)
+\- \[Image Gallery](https://nithesh-cod.github.io/CodeAlpha_ImageGallery/)
 
-\- \[Calculator](https://nithesh-cod.github.io/CodeAlpha\_Calculator/)
+\- \[Calculator](https://nithesh-cod.github.io/CodeAlpha_Calculator/)
 
-\- \[Music Player](https://nithesh-cod.github.io/CodeAlpha\_MusicPlayer/)
+\- \[Music Player](https://nithesh-cod.github.io/CodeAlpha_MusicPlayer/)
 
 
 
